@@ -1,0 +1,47 @@
+[{
+    "username": "tipper.truong",
+    "firstname": "Tipper",
+    "lastname" : "Truong",
+    "email": "tqtruong95@gmail.com",
+    "password": "12345",
+    "address": "1 Washington Sq, San Jose, CA 95192",
+    "sellTickets":  [{
+
+        "name": "Lionel Richie: All The Hits With Very Special Guest Mariah Carey",
+        "venue": "Golden 1 Center",
+        "date": "Tues, 05/02/2017",
+        "location": "Sacramento, CA",
+        "artist": [
+          "Lionel Richie",
+          "Mariah Carey"
+        ],
+        "photo": "",
+        "sellPrice": 50,
+        "seats": [],
+        "startTime": "7:00pm",
+        "endTime": "11:00pm",
+        "genre": "Pop/R&B"
+        
+        }],
+
+    "buyTickets": [{
+       "name": "Chris Brown: The Party Tour",
+        "venue": "Golden 1 Center",
+        "date": "Sat, 05/13/17",
+        "location": "Sacramento, CA",
+        "artist": [
+          "Chris Brown",
+          "50 Cent",
+          "O.t. Genasis",
+          "Fabolous",
+          "Kap G"
+        ],
+        "photo": "",
+        "price": 45,
+        "seats": [],
+        "startTime": "7:30pm",
+        "endTime": "11:30pm",
+        "genre": "Hip-hop/R&B"
+    }]
+   
+}]

@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Lionel Richie: All The Hits With Very Special Guest Mariah Carey",
+    "venue": "Golden 1 Center",
+    "date": "Tues, 05/02/2017",
+    "location": "Sacramento, CA",
+    "artist": [
+      "Lionel Richie",
+      "Mariah Carey"
+    ],
+    "photo": "images/lionel-richie.jpeg",
+    "price": 50,
+    "seats": [],
+    "startTime": "7:00pm",
+    "endTime": "11:00pm",
+    "genre": "Pop/R&B"
+  },
+  {
+    "name": "The Chainsmokers",
+    "venue": "Bill Graham Civic Auditorium",
+    "date": "Fri, 05/05/17",
+    "location": "San Francisco, CA",
+    "artist": [
+      "The Chainsmokers",
+      "Kiiara",
+      "Grandtheft",
+      "Emily Warren"
+    ],
+    "photo": "images/event1.jpg",
+    "price": 75,
+    "seats": [],
+    "startTime": "8:00pm",
+    "endTime": "12:00pm",
+    "genre": "Electronic Dance Music"
+  },
+  {
+    "name": "Chris Brown: The Party Tour",
+    "venue": "Golden 1 Center",
+    "date": "Sat, 05/13/17",
+    "location": "Sacramento, CA",
+    "artist": [
+      "Chris Brown",
+      "50 Cent",
+      "O.t. Genasis",
+      "Fabolous",
+      "Kap G"
+    ],
+    "photo": "images/chris-brown.jpg",
+    "price": 45,
+    "seats": [],
+    "startTime": "7:30pm",
+    "endTime": "11:30pm",
+    "genre": "Hip-hop/R&B"
+  },
+  {
+    "name": "Bottlerock Napa Valley",
+    "venue": "Napa Valley Expo",
+    "date": "Fri, 05/26/17",
+    "location": "Napa, CA",
+    "artist": [
+      "TBD"
+    ],
+    "photo": "images/bottle-rock.png",
+    "price": 95,
+    "seats": [],
+    "startTime": "12:00pm",
+    "endTime": "9:00pm",
+    "genre": "Alternative Rock"
+  },
+  {
+    "name": "John Legend",
+    "venue": "Greek Theatre-U.C. Berkeley",
+    "date": "Sat, 05/27/17",
+    "location": "Berkeley, CA",
+    "artist": [
+      "John Legend",
+      "Gallant"
+    ],
+    "photo": "images/john-legend.jpg",
+    "price": 75,
+    "seats": [],
+    "startTime": "7:30pm",
+    "endTime": "11:30pm",
+    "genre": "R&B"
+  },
+  {
+    "name": "Lady Gaga Joanne World Tour",
+    "venue": "Oracle Arena",
+    "date": "Tues, 08/15/2017",
+    "location": "Oakland, CA",
+    "artist": [
+      "Lady Gaga"
+    ],
+    "photo": "images/event2.jpg",
+    "price": 100,
+    "seats": [],
+    "startTime": "8:00pm",
+    "endTime": "11:00pm",
+    "genre": "Pop"
+  },
+  {
+    "name": "Lady Antebellum: You Look Good Tour 2017",
+    "venue": "Shoreline Amphitheatre",
+    "date": "Sat, 05/27/17",
+    "location": "Mountain View, CA",
+    "artist": [
+      "Lady Antebellum",
+      "Kelsea Ballerini",
+      "Brett Young"
+    ],
+    "photo": "images/lady-tour.jpg",
+    "price": 45,
+    "seats": [],
+    "startTime": "7:30pm",
+    "endTime": "11:30pm",
+    "genre": "Country/Pop"
+  },
+  {
+    "name": "Coldplay: A Head Full of Dreams Tour",
+    "venue": "Levi's Stadium",
+    "date": "Wed, 10/04/17",
+    "location": "Santa Clara, CA",
+    "artist": [
+      "Coldplay"
+    ],
+    "photo": "images/coldplay.jpg",
+    "price": 80,
+    "seats": [],
+    "startTime": "7:00pm",
+    "endTime": "11:00pm",
+    "genre": "Pop"
+  },
+  {
+    "name": "Bruno Mars: 24K Magic World Tour",
+    "venue": "SAP Center",
+    "date": "Fri, 07/07/17",
+    "location": "San Jose, CA",
+    "artist": [
+      "Bruno Mars"
+    ],
+    "photo": "images/bruno-mars.jpg",
+    "price": 60,
+    "seats": [],
+    "startTime": "7:00pm",
+    "endTime": "11:00pm",
+    "genre": "Pop"
+  },
+  {
+    "name": "Kehlani",
+    "venue": "Bill Graham Civic Auditorium",
+    "date": "Sat, 06/17/17",
+    "location": "San Francisco, CA",
+    "artist": [
+      "Kehlani"
+    ],
+    "photo": "images/kehlani.jpg",
+    "price": 50,
+    "seats": [],
+    "startTime": "8:00pm",
+    "endTime": "11:00pm",
+    "genre": "Hip-hop/R&B"
+  }
+]

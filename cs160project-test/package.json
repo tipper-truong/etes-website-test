@@ -1,0 +1,39 @@
+{
+  "name": "ticketxchange",
+  "version": "1.0.0",
+  "description": "An Electronic Ticket Exchange Service created by CS 160 Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tqtruong95/mean-stack-registration-login-example.git"
+  },
+  "keywords": [
+    "ticket"
+  ],
+  "author": "Hansen Wu, Thomas Wilson, Tipper Truong, David Xie, Patrick Solis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tqtruong95/mean-stack-registration-login-example/issues"
+  },
+  "homepage": "https://github.com/tqtruong95/mean-stack-registration-login-example#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-jwt": "^0.1.9",
+    "angular-route": "^1.6.4",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.3.0",
+    "mongodb": "^2.2.25",
+    "mongoose": "^4.9.2",
+    "morgan": "^1.8.1",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0"
+  }
+}
